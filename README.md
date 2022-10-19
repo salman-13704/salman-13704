@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎤 My name is Salman Javaid and I'm a Ruby on Rails Engineer [@SectorLabs](https://github.com/SectorLabs) 
+* 🎤 My name is Salman Javaid and I'm a Ruby on Rails Engineer
 * 🇵🇰 Based in Lahore, Pakistan
 
 ### 🛠 Technologies & Tools
